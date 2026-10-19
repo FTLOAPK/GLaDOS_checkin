@@ -16,17 +16,6 @@
 
 ## 食用方式
 
-### 注册 GLaDOS 账号
-
-注册地址：<https://glados.space/landing/0A58E-NV28S-6U3QV-33VMG>
-
-- 我的邀请码：[`0A58E-NV28S-6U3QV-33VMG`](https://0a58e-nv28s-6u3qv-33vmg.glados.space)
-- 我的优惠码（9 折）：[`DEVILSTORE`](https://0a58e-nv28s-6u3qv-33vmg.glados.space)
-
-### Fork 本仓库
-
-![图片加载失败](imgs/1.png)
-
 ### 配置 Secrets
 
 跳转至自己仓库的 `Settings` → `Secrets and variables` → `Action`，按需添加以下 `repository secret`：
